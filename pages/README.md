@@ -21,7 +21,7 @@ Please include the following text in the Acknowledgements:
 
 ## Data overview
 
-[:files_path:/This package contains replication data for: "The Economic Consequences of Increasing Sleep Among the Urban Poor." It contains analysis data from an RCT conducted in Chennai, India, between 2017 and 2019. It contains cleaned analysis data from seven sources: i) a baseline survey, ii) daily Actigraph sleep data, iii) daily surveys of participants, iv) daily lab experiments, v) daily data collected from a work task, vi) a priors survey of experts, and vii) a larger survey of a representative sample of Chennai. The scripts, produced in Stata and R, contain code to replicate the tables and figures in the paper and its appendix. For further details on the data or how to run the code, please see the readme file.
+This package contains replication data for: "The Economic Consequences of Increasing Sleep Among the Urban Poor." It contains analysis data from an RCT conducted in Chennai, India, between 2017 and 2019. It contains cleaned analysis data from seven sources: i) a baseline survey, ii) daily Actigraph sleep data, iii) daily surveys of participants, iv) daily lab experiments, v) daily data collected from a work task, vi) a priors survey of experts, and vii) a larger survey of a representative sample of Chennai. The scripts, produced in Stata and R, contain code to replicate the tables and figures in the paper and its appendix. For further details on the data or how to run the code, please see the readme file.
 
 [**Download the Replication_package_Economic_consequences_sleep.zip package**](:files_path:/Replication_package_Economic_consequences_sleep.zip)
 
