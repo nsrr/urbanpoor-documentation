@@ -27,9 +27,12 @@ This package contains replication data for: "The Economic Consequences of Increa
 
 ## References
 
-- https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GJ9QPC
+- [Replication Data for: 'The Economic Consequences of Increasing Sleep among the Urban Poor' (Harvard Dataverse)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GJ9QPC)
 
 ## Changelog
+
+*December 2021*
+- Updated replication package .zip file (calendar dates removed from datasets; epoch-by-epoch actigraphy data added)
 
 *October 2021*
 - Urban Poor in India dataset published to sleepdata.org
